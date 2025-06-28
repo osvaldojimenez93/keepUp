@@ -1,0 +1,6 @@
+@keepUp.API_HostAddress = http://localhost:5155
+
+GET {{keepUp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
